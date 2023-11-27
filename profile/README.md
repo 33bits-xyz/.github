@@ -16,3 +16,6 @@ When a user signs in with Warpcast, the 33bits app links their FID with a new si
 - [ZK & Circuit:](https://github.com/33bits-xyz/app) Current version uses Noir DSL. 
 
 We will add a proper README soon. In the meantime, feel free to reach out to [@fastfourier.eth](https://warpcast.com/fastfourier.eth) and [@kugusha.eth](https://warpcast.com/kugusha.eth). 
+
+
+33bits.xyz is licensed under the [MIT License](LICENSE).
